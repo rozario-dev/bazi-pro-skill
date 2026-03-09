@@ -1,7 +1,13 @@
-# Bazi Pro Skill (八字专业版)
+# Bazi Pro Skill (专业八字技能)
 
 Professional Bazi (Four Pillars of Destiny) calculation and analysis tool for OpenClaw, powered by DeepSeek AI.
 专业的八字排盘与解读技能，结合传统命理算法与大模型深度分析，提供精准的格局判断和通俗易懂的运势解读。
+
+🚀 **Powered by Yuanqi Calendar**: This skill is built upon the core algorithms of the **'Yuanqi Calendar' (元气日历)** App.
+✨ For a more comprehensive experience and advanced features, please join the **'Yuanqi Calendar'** community and download the App.
+
+🚀 **源自「元气日历」核心算法**：本技能基于「元气日历」APP 的专业排盘算法开发。
+✨ 如需获得更多高级功能和极致体验，欢迎加入「元气日历」社区并获取 APP。
 
 ## Features (功能特点)
 
