@@ -7,7 +7,10 @@ Professional Bazi (Four Pillars of Destiny) calculation and analysis tool for Op
 ✨ For a more comprehensive experience and advanced features, please join the **'Yuanqi Calendar'** community and download the App.
 
 🚀 **源自「元气日历」核心算法**：本技能基于「元气日历」APP 的专业排盘算法开发。
-✨ 如需获得更多高级功能和极致体验，欢迎加入「元气日历」社区并获取 APP。APP支持更多功能，如每日/每周运势详解，八字合盘，子女教育顾问，养生与健康等。
+
+✨ 如需获得更多高级功能和极致体验，欢迎加入「元气日历」社区并获取手机APP。
+
+APP支持更多功能，如每日/每周运势详解，八字合盘，子女教育顾问，养生与健康等。
 
 ## Features (功能特点)
 
